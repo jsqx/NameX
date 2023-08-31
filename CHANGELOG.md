@@ -1,12 +1,25 @@
 # Changelog
 
+#### 1.2.6 - 31 August 2023
+- ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) Added aria labels and titles to icons for toggle button, theme mode and variants.
+- ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) Only display navigation toggler on mobile.
+
+#### 1.2.5 - 05 August 2023
+- ![Bug Fix](https://smftricks.com/assets/changelog/bug--minus.png) Fixes for styles in wysiwyg mode.
+- ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) Improved styling for some sceditor elements.
+
+#### 1.2.4 - 31 July 2023
+- ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) Improved stats pie colors.
+- ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) Improved displaying users online in info center.
+- ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) Added aria-label for social icons.
+
 #### 1.2.3 - 10 June 2023
 - ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) SMF 2.1.4 patch updates.
 - ![Bug Fix](https://smftricks.com/assets/changelog/bug--minus.png) Fixed local font face.
 
 #### 1.2.2 - 28 February 2023
 - ![Bug Fix](https://smftricks.com/assets/changelog/bug--minus.png) Fixed issues when selecting variants in profile.
-- ![Bug Fix](https://smftricks.com/assets/changelog/bug--minus.png) Fixed problems when editing the menu using (Ultimate Menu)[https://custom.simplemachines.org/index.php?mod=3674].
+- ![Bug Fix](https://smftricks.com/assets/changelog/bug--minus.png) Fixed problems when editing the menu using [Ultimate Menu](https://custom.simplemachines.org/index.php?mod=3674).
 - ![Improvement](https://smftricks.com/assets/changelog/tag--pencil.png) Show 'community' as the active item when there's an active children action.
 
 #### 1.2.1 - 27 February 2023
